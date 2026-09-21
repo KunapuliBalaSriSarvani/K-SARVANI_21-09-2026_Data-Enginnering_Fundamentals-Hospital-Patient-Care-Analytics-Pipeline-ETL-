@@ -61,14 +61,35 @@ SELECT
 FROM patient_care_analytics
 GROUP BY department_x
 ORDER BY avg_wait_minutes DESC;
-<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/dd1757e4-de72-4ed9-a711-2ee55fcfb183" />
+```
 
-Figure: Integrated patient-care analytics dataset successfully loaded into the patient_care_analytics MySQL table.
+### 📈 MySQL Analytics Output
+
+The query generates a department-level view of patient volume, average waiting time, long-wait cases, and high-risk analytical cases.
+
+<img width="959" height="473" alt="MySQL Analytics Output" src="https://github.com/user-attachments/assets/dd1757e4-de72-4ed9-a711-2ee55fcfb183" />
+
+---
+
+### 🗄️ Loaded Patient Care Analytics Dataset
+
+The integrated and validated dataset is successfully loaded into the `patient_care_analytics` MySQL table.
+
+```sql
 SELECT * FROM patient_care_analytics;
-<img width="1918" height="994" alt="image" src="https://github.com/user-attachments/assets/e78f03b2-bc58-46a1-9391-70c266ea1317" />
+```
 
-Figure: MySQL table schema showing the structure and data types of the patient_care_analytics table.
+<img width="1918" height="994" alt="Loaded Patient Care Analytics Dataset" src="https://github.com/user-attachments/assets/e78f03b2-bc58-46a1-9391-70c266ea1317" />
+
+---
+
+### 🔍 MySQL Table Schema
+
+The table schema shows the structure and data types of the `patient_care_analytics` table.
+
+```sql
 USE hospital_db;
 DESCRIBE patient_care_analytics;
-<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/1e48a0fc-e30b-46f4-9aa3-613246351cec" />
+```
 
+<img width="959" height="500" alt="MySQL Table Schema" src="https://github.com/user-attachments/assets/1e48a0fc-e30b-46f4-9aa3-613246351cec" />
