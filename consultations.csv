@@ -1,0 +1,11 @@
+consultation_id,patient_id,notes,doctor_name
+9001,1001,Stable; continue monitoring,Dr. Rao
+9002,1002,Fatigue; review anemia results,Dr. Iyer
+9003,1003,Routine orthopedic follow-up,Dr. Shah
+9004,1004,Monitor blood pressure and anemia,Dr. Rao
+9005,1005,Headache; follow-up advised,Dr. Menon
+9006,1006,Stable,Dr. Iyer
+9007,1007,High BP; close monitoring required,Dr. Rao
+9008,1008,Breathlessness; monitor oxygen saturation,Dr. Thomas
+9009,1009,Stable post consultation,Dr. Shah
+9010,1010,Routine consultation,Dr. Iyer

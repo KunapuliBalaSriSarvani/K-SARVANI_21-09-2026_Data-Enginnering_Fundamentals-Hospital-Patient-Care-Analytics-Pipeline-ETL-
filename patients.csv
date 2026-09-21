@@ -1,0 +1,11 @@
+patient_id,patient_name,age,gender,department,registration_date
+1001,Aarav,45,M,Cardiology,2026-09-01
+1002,Diya,67,F,General Medicine,2026-09-02
+1003,Rohan,29,M,Orthopedics,2026-09-03
+1004,Ananya,72,F,Cardiology,2026-09-03
+1005,Vikram,54,M,Neurology,2026-09-04
+1006,Meera,38,F,General Medicine,2026-09-05
+1007,Kiran,81,M,Cardiology,2026-09-05
+1008,Sneha,61,F,Pulmonology,2026-09-06
+1009,Arjun,50,M,Orthopedics,2026-09-07
+1010,Pooja,34,F,General Medicine,2026-09-07

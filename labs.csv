@@ -1,0 +1,11 @@
+lab_id,patient_id,test_name,result_value,unit,lab_status
+7001,1001,Hemoglobin,13.5,g/dL,Normal
+7002,1002,Hemoglobin,9.8,g/dL,Low
+7003,1003,Hemoglobin,14.2,g/dL,Normal
+7004,1004,Hemoglobin,10.1,g/dL,Low
+7005,1005,Hemoglobin,12.8,g/dL,Normal
+7006,1006,Hemoglobin,13.1,g/dL,Normal
+7007,1007,Hemoglobin,9.2,g/dL,Low
+7008,1008,Hemoglobin,11.0,g/dL,Low
+7009,1009,Hemoglobin,14.0,g/dL,Normal
+7010,1010,Hemoglobin,13.8,g/dL,Normal
